@@ -1,0 +1,12 @@
+__pycache__/
+.tools/
+.venv/
+*.blend
+*.blend1
+renders/
+Final/
+assets/branding/
+assets/reference/
+*.mp4
+*.mov
+.DS_Store
